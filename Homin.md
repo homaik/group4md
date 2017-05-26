@@ -11,11 +11,11 @@ My name is *Homin* or _homin_
 
 [I'm so Sexy](https://naver.com)
 
-I'm 'Fantastic Boy' and 'Sexy Boy' Yeah.
+I'm `Fantastic Boy` and `Sexy Boy` Yeah.
 
-'''javascript
+```javascript
 Homin = "hahaha";
-'''
+```
 
 |Tables     | Are         |Cool |
 |-----------|:-----------:|----:|
