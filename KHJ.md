@@ -13,10 +13,12 @@ introduction
 2.Group Number
 
 ..*
--4
+
 |Group|Member   |Age  |
 |-----|:-------:|----:|
 |Homin|MyoungWha|24   |
+
+
 ----------------
 
 3.Age
