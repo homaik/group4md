@@ -14,11 +14,12 @@ introduction
 
 ..*
 *4*
-Group|Member
----|---|
-Homin|MyoungWha
-*1*|*2*
----
+|Group|Member   |
+|-----|---------|
+|Homin|MyoungWha|
+|*1  *|*2*      |
+------------
+
 3.Age
 ..* *21*
 > 1997.06.01
