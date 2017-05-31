@@ -14,10 +14,9 @@ introduction
 
 ..*
 -4
-|Group|Member   |
-|-----|--------:|
-|Homin|MyoungWha|
-|*1*  |*2*      |
+|Group|Member   |Age  |
+|-----|:-------:|----:|
+|Homin|MyoungWha|24   |
 ----------------
 
 3.Age
