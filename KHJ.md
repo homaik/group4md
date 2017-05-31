@@ -12,7 +12,7 @@ introduction
 
 2. Group Number
 
-..*
+
 
 |Group|Member   |Age  |
 |-----|:-------:|----:|
