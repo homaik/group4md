@@ -7,7 +7,7 @@ introduction
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ----
 2.Group Number
-..** *4*
+..* *4*
 Group|Member
 ---|---|
 Homin|MyoungWha
